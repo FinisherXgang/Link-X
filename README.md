@@ -2,8 +2,6 @@
 An Automated Tool to Hack Victim's Camera, Microphone, Location, Clipboard. Has 2 Extra Features.
 
 ## Version 1.1 Update
-<li> Fixed Some Major Bugs
-
 <li> Data Saving Directory Changed To Storage Folder
 
 # Features
@@ -51,9 +49,9 @@ python link-x.py
 ## Contact
 [*] Contact with Me via Email
 
-ContactWithToxicNoob@gmail.com
+y
 
-### Tool ScreenShots :
+
 <img src="https://l.top4top.io/p_2256b4bpl0.jpg" alt="Link-X 1">
 <img src="https://a.top4top.io/p_2256ahw7y1.jpg" alt="Link-X 2">
 <img src="https://i.top4top.io/p_2256a3eog0.jpg" alt="Link-X 3">
@@ -61,7 +59,7 @@ ContactWithToxicNoob@gmail.com
 
 
 
-### Visitors :
 
 
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
+
+
